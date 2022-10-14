@@ -1,0 +1,12 @@
+section.pagetitle_container span {
+  font-size: 12px;
+}
+section.pagetitle_container h1 {
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+section.pagetitle_container {
+  color: #fff;
+  background: #29b363;
+  padding: 80px;
+}
