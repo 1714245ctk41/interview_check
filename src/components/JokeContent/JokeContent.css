@@ -12,6 +12,7 @@
   text-align: center;
   padding: 10px 60px;
   cursor: pointer;
+  color: #fff;
 }
 .jokecontent_container button:first-child {
   margin-right: 40px;
